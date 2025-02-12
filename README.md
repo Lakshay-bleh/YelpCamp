@@ -9,7 +9,6 @@ YelpCamp is a web application built using Node.js, Express, MongoDB, and other m
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
